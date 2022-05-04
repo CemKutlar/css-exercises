@@ -1,0 +1,26 @@
+.n1{
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#n2{
+    color: blue;
+    font-size: 36px;
+}
+
+.n3{
+    background-color: rgb(255, 167, 167);
+    font-size: 24px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#n4{
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.n5{
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
